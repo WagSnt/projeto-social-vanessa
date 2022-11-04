@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: rgba(221, 155, 69, 0.637) url(../imagens/fundo-vanessa.jpg) right bottom no-repeat;
+    background: rgba(221, 155, 69, 0.637) url(../imagens/fundo-vanessa.jpg) top center no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
